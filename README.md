@@ -1,5 +1,12 @@
 ## Hi there 👋
 
+I'm Marek a generalist (aka a “full stack” developer) who can develop React frontends and NodeJS backends in TypeScript. I'm interested in digital accessibility (a11y), responsive and slick UI/UX, and performance.
+
+- 🔭 I’m currently working on a recipe manager
+- 🌱 I’m currently learning Remix and TypeScript
+
+[![Connect with me on LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-zelinka/)
+
 <!--
 **m-zelinka/m-zelinka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
